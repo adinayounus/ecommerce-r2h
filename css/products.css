@@ -251,4 +251,21 @@ footer img {
     .mobile-menu {
         width: 120% !important;
     }
+
+    html {
+        width: 150%;
+    }
+
+    @media only screen and (max-width: 600px) {
+        #prod-grid {
+            grid-template-columns: repeat(2, 1fr);
+            grid-gap: 10px;
+            padding: 0;
+            justify-items: center;
+        }
+        
+        html {
+            width: 150%;
+        }
+    }
 }
