@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 auto; 
+    width: 100%;
+    background-color: #171717;
+    color: #f0f1ec;
+    font-family:'Lacquer', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+/* .logo img {
+    height: 100px;
+    width: 200px;
+} */
+
+header a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #84867e;
+}
+
+header a:hover {
+    color:#f0f1ec;
+}
+
+header {
+    padding: 0 50px;
+    background-color: #171717;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    max-height: 10rem;
+    margin: 0;
+}
+
+.navbar ul {
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 25px;
+    font-size: 1.3rem;
+}
+
+.navbar li {
+    padding: 10px; 
+    margin-left: 15px;
+    font-family: "Lacquer";
+}
+
+.navbar li:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+#hamburger {
+    margin: auto 0;
+    display: none; 
+    cursor: pointer;
+
+}
+
+#hamburger div {
+    width: 35px;
+    height: 3px;
+    background-color: #f0f1ec;
+    margin: 6px 0; 
+    transition: 0.4s;
+}
+
+.open .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-6px, 6px);
+    transform: rotate(-45deg) translate(-6px, 6px);
+}
+
+.open .bar2 {
+    opacity: 0;
+}
+
+.open .bar3 {
+    -webkit-transform: rotate(45deg) translate(-6px, -8px);
+    transform: rotate(45deg) translate(-6px, -8px);
+}
+
+.open .mobile-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.mobile-menu {
+    display: none; 
+    position: absolute;
+    margin-top: 15px;
+    padding-top: 0px !important;
+    left: 0;
+    width: 100%;
+    background-color: #171717;
+}
+
+.mobile-menu li {
+    list-style-type: none;
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+    font-family: "Lacquer";
+}
+
+.contact-form {
+    
+}
+
+footer {
+    background-color: rgb(13, 13, 13);
+}
+
+footer a {
+    color:#f0f1ec;
+    display: flex;
+}
+
+footer img {
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+}

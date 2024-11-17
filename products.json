@@ -4,14 +4,14 @@
             "title": "Collide With the Sky",
             "artist": "Pierce the Veil",
             "price": 29.99,
-            "cover": "https://store.fearlessrecords.com/cdn/shop/files/PierceTheVeil_CollideWithTheSky_SeaBlue.png?v=1724866999&width=1080",
+            "cover": "https://i.pinimg.com/736x/d7/e2/61/d7e2613166e0d25da1f1d54b9c9e15c0.jpg",
             "tracks": "May These Noises Startle You in Your Sleep Tonight, Hell Above, A March into Water, King for a Day ft. Kellin Quinn, Bulls in the Bronx, Props & Mayhem, Tangled in the Great Escape, I'm Low on Gas and You Need a Jacket, The First Punch, One Hundred Sleepless Nights, Stained Glass Eyes and Colorful Tears, Hold on Till May",
             "description": "Collide with the Sky is the third studio album by American post-hardcore band Pierce the Veil, released on July 17, 2012, by Fearless Records. The album spawned the hit songs 'King for a Day', 'A Match into Water', 'Bulls in the Bronx' and 'Hell Above', all of which remain staples of the group's discography."
         }, 
         {
             "title": "Zig",
             "artist": "Poppy",
-            "price": 29.99,
+            "price": 29.99, 
             "cover": "https://img.merchbar.com/product/crop/10530/6032780/MISKST-1698686105-993x993-1698686100-810121777527.jpg?q=40&w=1400",
             "tracks": "Church Outfit, Knockoff, Hard, What it Becomes, Flicker, 1s + 0s, Zig, Linger, The Attic, Motorbike, Prove It",
             "description": "Zig is the fifth studio album by American singer-songwriter Poppy, released on October 27, 2023. The album was released through Sumerian Records, marking her return to the label after briefly signing with Republic. Produced by Ali Payami, the record marks the artist's return to pop music, and features a more industrial sound than her previous album, Flux (2021)."
@@ -20,9 +20,83 @@
             "title": "Three Cheers for Sweet Revenge",
             "artist": "My Chemical Romance",
             "price": 39.99,
-            "cover": "https://m.media-amazon.com/images/I/51BpBR8r3AL._UF1000,1000_QL80_.jpg",
+            "cover": "https://www.deafmanvinyl.com/cdn/shop/files/My-Chemical-Romance-Three-Cheers-For-Sweet-Revenge-2.jpg?v=1684341702",
             "tracks": "Helena, Give 'Em Hell, Kid, To the End, You Know What They Do to Guys Like Us in Prison, I'm Not Okay (I Promise), The Ghost of You, The Jetset Life Is Gonna Kill You, Interlude, Thank You for the Venom",
-            "description": "thanks"
+            "description": "Three Cheers for Sweet Revenge (often shortened to Three Cheers or Revenge) is the second studio album by American rock band My Chemical Romance, released on June 8, 2004, by Reprise Records. The album received positive reviews from critics and was a commercial success for both the band and the Reprise label. It was certified platinum by the Recording Industry Association of America (RIAA) less than a year after its release, and has sold over three million copies in the United States."
+        },
+        {
+            "title": "After Hours",
+            "artist": "The Weeknd",
+            "price": 64.99,
+            "cover": "https://i.ebayimg.com/images/g/OJQAAOSwMtVfXiyP/s-l400.jpg",
+            "tracks": "Alone Again, Too Late, Hardest to Love, Scared to Live, Snowchild, Escape from LA, Heartless, Faith, Blinding Lights, In Your Eyes, Save Your Tears, Repeat After Me (interlude), After Hours, Until I Bleed Out",
+            "description": "After Hours is the fourth studio album by the Canadian singer-songwriter the Weeknd. It was released on March 20, 2020, by XO and Republic Records. Thematically, After Hours explores loneliness, self-loathing, and escapism.Prior to the album's release, the Weeknd confirmed that After Hours would contrast stylistically with its predecessor, Starboy (2016). Music journalists have noted the album as an artistic reinvention for the Weeknd, with the introduction of new wave and dream pop influences. The album's title is borrowed from the 1985 film of the same name, while the artwork was inspired by various other films."
+        }, 
+
+        {
+            "title": "My Beautiful Dark Twisted Fantasy",
+            "artist": "Kanye West",
+            "price": 59.99,
+            "cover": "https://m.media-amazon.com/images/I/51Yl3qf44vL._UF1000,1000_QL80_.jpg",
+            "tracks": "Dark Fantasy, All of the Lights, So Appalled, Hell of a Life, Who Will Survive in America, Gorgeous, All of the Lights (interlude), Devil in a New Dress, Runaway, Blame Game, Lost in The World, Power, Monster ",
+            "description": "My Beautiful Dark Twisted Fantasy debuted at number one on the US Billboard 200 and the Canadian Albums Chart, while reaching the top 10 in six other countries. The album eventually achieved a triple platinum certification in the United States from the Recording Industry Association of America, alongside sales certifications in a few other territories. It was ranked in lists as the best album of the 2010s and among the greatest of all time by several publications, including Pitchfork and Rolling Stone."
+        },
+        {
+            "title": "A Rush Of Blood to the Head",
+            "artist": "Coldplay",
+            "price": 24.99,
+            "cover": "https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/original/products/51119/6115940/1atllp26737__63207.1722584883.jpg?c=2",
+            "tracks": "Politik, In My Place, God Put a Smile Upon Your Face, The Scientist, Clocks, Daylight, Green Eyes, Warning Sign, A Whisper",
+            "description": "A Rush of Blood to the Head is the second studio album by British rock band Coldplay. It was released on 26 August 2002 by Parlophone in the United Kingdom, and a day later by Capitol Records in the United States. The album was produced by the band and Ken Nelson, and makes greater use of the electric guitar and piano than the band's debut album, Parachutes (2000)."
+        },
+        {
+            "title": "Good Girl Gone Bad",
+            "artist": "Rihanna",
+            "price": "21.99",
+            "cover": "https://m.media-amazon.com/images/I/41C3q5aQJaL.jpg",
+            "tracks": "Umbrella, Push Up on Me, Don't Stop the Music, Breakin' Dishes, Shut Up and Drive, Hate That I Love You, Say It, Sell Me Candy, Lemme Get That",
+            "description": "Good Girl Gone Bad is the third studio album by Barbadian singer, Rihanna. It was released on May 31, 2007, by Def Jam Recordings and SRP Records. Rihanna worked with various producers on the album, including Tricky Stewart, The-Dream, Neo da Matrix, Timbaland, Carl Sturken, Evan Rogers and Stargate. Inspired by Brandy's fourth studio album Afrodisiac (2004), Good Girl Gone Bad is a pop, dance-pop and R&B record with 1980s music influences" 
+        },
+        {
+            "title": "Demon Days - Exclusive Purple",
+            "artist": "Gorillaz",
+            "price": 149.99,
+            "cover": "https://m.media-amazon.com/images/I/518T-xpDuoL._UF1000,1000_QL80_.jpg",
+            "tracks": "Intro, Last Living Souls, Kids with Guns, O Green World, Dirty Harry, Feel Good Inc, El Manana, Every Planet We Reach, is Dead, November has Come, All Alone, White Light, Dare, Fire Coming Out of the Monkey's Head, Don't Get List in Heaven, Demon Days",
+            "description": "Demon Days is the second studio album by the British virtual band Gorillaz. It was released on 11 May 2005 in Japan and 23 May 2005 in the United Kingdom by Parlophone and May 24, 2005 in the United States by Virgin Records. Produced by Gorillaz, Danger Mouse, Jason Cox, and James Dring, it features De La Soul, Neneh Cherry, Martina Topley-Bird, Roots Manuva, MF DOOM, Ike Turner, Bootie Brown of the Pharcyde, Shaun Ryder and Dennis Hopper."
+        },
+        {
+            "title": "Be The Cowboy",
+            "artist": "Mitski",
+            "price": 24.99,
+            "cover": "https://vinyl.com/cdn/shop/files/Mitski_Be_The_Cowboy_Vinyl.jpg?v=1695863103",
+            "tracks": "Geyser, Why Didn't You Stop Me?, Old Friend, A Pearl, Lonesome Love, Remember My Name, Me and My Husband, Come into the Water, Nobody, Pink in the Night, A Horse Named Cold Air, Washing Machine Heart, Blue Light, Two Slow Dancers",
+            "description": "Be the Cowboy is the fifth studio album by American indie rock musician Mitski, released on August 17, 2018, through Dead Oceans. Produced by longtime collaborator Patrick Hyland, the album widens Mitski's palette with a return to the piano featured on her first two records alongside synthesizers, horns and the guitar that became her signature instrument. Upon its release, Be the Cowboy received widespread acclaim from music critics, who later ranked it among the best albums of 2018."
+        },
+        {
+            "title": "Riot!",
+            "artist": "Paramore",
+            "price": 24.99,
+            "cover": "https://vinyl.com/cdn/shop/files/paramore_riot_silver_vinyl.png?v=1717033850",
+            "tracks": "For a Pessimest, I'm Pretty Optimistic, That's What You Get, Hallelujah, Misery Business, When It Rains, Let the Flames Begin, Miracle, crushcrushcrush, We Are Broken",
+            "description": "Riot! is the second studio album by the American rock band Paramore. It was released in the United States on June 12, 2007 through Fueled by Ramen as a follow-up to the band's debut album, All We Know Is Falling (2005). The album was produced by David Bendeth and written primarily by band members Hayley Williams and Josh Farro, with Bendeth."
+        },
+        {
+            "title": "Room On Fire",
+            "artist": "The Strokes",
+            "price": 34.99,
+            "cover": "https://m.media-amazon.com/images/I/61RdMwRteqL._UF1000,1000_QL80_.jpg",
+            "tracks": "What Ever Happened?, Reptilia, Automatic Shop, 12:51, You Talk Way Too Much, Between Love And Hate, Meet Me in the Bathroom, Under Control, The Way It Is, The End Has No End, I Can't Win",
+            "description": "Room on Fire is the second studio album by American rock band the Strokes, released on October 21, 2003, through RCA Records. Its title is derived from a lyric in the song Reptilia. The album received positive reviews upon its release and reached number four on the US Billboard 200, where it went on to sell 597,000 units by October 2006, earning a gold certification from the Recording Industry Association of America (RIAA). It also reached number two on the UK Albums Chart. Three singles were released from the album: 12:51, Reptilia, and The End Has No End"
+        },
+        {
+            "title": "Rose",
+            "artist": "The Front Bottoms",
+            "price": 24.99,
+            "cover": "https://f4.bcbits.com/img/0017045979_71.jpg",
+            "tracks": "Flying Model Rockets, Lipstick Covered Magnet, Twelve Feet Deep, Jim Bogart, Be Nice To Me, Awkward Conversations",
+            "description": "The Front Bottoms are an American rock band from Woodcliff Lake, New Jersey, formed in 2006. They are currently a duo consisting of lead vocalist and guitarist Brian Sella and drummer Mat Uychich. During live performances, they are currently accompanied by touring members, including guitarist and backing vocalist AJ Peacox, bassist and backing vocalist Natalie Newbold, and bassist, guitarist and backing vocalist Erik Kase Romero."
         }
+
     ]
 }
