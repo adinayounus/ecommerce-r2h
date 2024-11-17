@@ -12,6 +12,7 @@ body {
     color: #f0f1ec;
     font-family:'Lacquer', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/imgs/heroimg.png);;
 }
 
 /* .logo img {
@@ -123,7 +124,50 @@ header {
 }
 
 .contact-form {
-    
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.comments {
+    display: flex;
+    flex-direction: column;
+}
+
+.comments input {
+    align-self: center;
+}
+
+.contact-form {
+    padding: 40px;
+}
+
+.contact-form input {
+    border: none;
+    background-color: rgba(188, 188, 188, 0.801);
+    padding: 15px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.contact-form label {
+    display: flex;
+    color: #84867e;
+}
+
+.contact-form button {
+    background-color: #84867e;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+
+.first-name, .last-name, .email, .password, .email-error {
+    padding: 10px;
 }
 
 footer {

@@ -13,7 +13,10 @@ const response = await fetch('products.json');
 const json = await response.json();
 console.log(json)
 
-const productGrid = document.getElementById("prod-grid");
+const frontGrid = document.getElementById("front-grid");
+const sale = document.getElementById("sale")
+// const productGrid = document.getElementById("prod-grid");
+
 // const newReleases = document.getElementById
 
 const prodCard = vinyl => {
@@ -30,12 +33,17 @@ const prodCard = vinyl => {
     return cardGrid; 
 }
 
+for (let i = 0; i<4; i++){
+    let frontCard = prodCard(json.products[i]);
+    frontGrid.appendChild(frontCard);
+}
+
+for (let i = 4; i<8; i++){
+    let frontCard = prodCard(json.products[i]);
+    sale.appendChild(frontCard);
+}
+
 // json.products.forEach((vinyl) => {
 //     let card = prodCard(vinyl);
 //     productGrid.appendChild(card);
 // })
-
-for (let i = 0; i<4; i++){
-    let card = prodCard(json.products[i]);
-    productGrid.appendChild(card);
-}
