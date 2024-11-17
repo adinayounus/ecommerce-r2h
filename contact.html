@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
     <link rel="stylesheet" href="/css/contact.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lacquer&display=swap" rel="stylesheet">
@@ -27,6 +28,7 @@
                     <li><a href="index.html">Home</a></li>
                     <li><a href="products.html">Browse</a></li>
                     <li><a href="contact.html">Contact</a></li>
+                    <li><img src="/imgs/shopping-cart (1).png"></li>
                 </ul>
             </div>
         </nav>
@@ -43,8 +45,8 @@
     </header>
 
 <main>
-        <div class="contact-form">
-            <form>
+    <div class="contact-form">
+        <form id="contact-form">
             <div class="name">
                 <div class="first-name">
                 <input placeholder="Jane" id="first_name" type="text" class="validate">
@@ -63,13 +65,16 @@
                 <input id="email" type="email" class="validate">
                 <label for="email">Email</label>
             </div>
-            <div class="email-error">
-                <input id="email_inline" type="email" class="validate">
-                <label for="email_inline">Email</label>
-                <span class="helper-text" data-error="wrong" data-success="right">Helper text</span>
+            <!-- <div class="email-error">
+                <input id="email_inline" type="email" class="validate"> -->
+            <div class="comments">
+                <input id="comment" type="text" class="validate" placeholder="...">
+                <label for="Comments">Comments</label>
             </div>
-            </form>
-        </div>
+                <!-- <span class="helper-text" data-error="wrong" data-success="right">text</span> -->
+                <button id="validate_btn" type="submit">Submit</button>
+        </form>
+    </div>
 </main>
 
     <footer class="page-footer">
@@ -77,27 +82,23 @@
             <div class="footer-row">
             <div class="f-content">
                 <img src="/imgs/spinifylogo.png">
-                <p>You can use rows and columns here to organize your footer content.</p>
+                <p>Thank you for visiting Spinify!</p>
             </div>
             <div class="footer-col">
-                <h5>Links</h5>
                 <ul>
                     <li><a href="contact.html">Contact</a></li>
                     <li><a href="products.html">Products</a></li>
-                    <li><a><img src=""></a></li>
-                    <li><a><img src=""></a></li>
-                    <li><a><img src=""></a></li>
                 </ul>
             </div>
             </div>
         </div>
         <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright Text
-            <a href="#!">More Links</a>
+            © 2024 
+            <a href="#!">Social Media</a>
             </div>
         </div>
     </footer>
-    <script src="script.js" type="module"></script>
+    <script src="contact.js" type="module"></script>
 </body>
 </html>
